@@ -1,3 +1,10 @@
+'''
+This module was used to experiment with using dxfgrabber to read dxf files.
+It should not be used by other modules. It is Proof of Concept only.
+
+See https://github.com/mozman/dxfgrabber
+and thanks to the author, Manfred Moitzi, mozman
+'''
 
 import time
 from collections import Counter, defaultdict
